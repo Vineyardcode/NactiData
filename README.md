@@ -4,8 +4,8 @@
   -	součet všech 3 čísel,
   -	součin všech 3 čísel,
   -	součet prvních dvou čísel dělený třetím.
-  -	
-• Aplikace ošetří tyto dvě výjimky:  
+
+• Aplikace ošetří tyto výjimky:  
   -	správnost všech tří vstupních parametrů,
   -	správnost numerických operací.
 
